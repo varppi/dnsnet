@@ -32,7 +32,7 @@ ReleaseV2: File transfers added (download only)
 
 # How to use (REPLACE "Listener ip" with the c2 ip):
 ```
-git clone https://github.com/R00tendo/dnsnet
+git clone https://github.com/SpoofIMEI/dnsnet
 cd dnsnet
 pip3 install -r requirements.txt
 python3 dnsnet.py --li Listener ip
